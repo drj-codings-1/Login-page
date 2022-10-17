@@ -1,0 +1,19 @@
+.body{
+    Font-family: 'Titillium Web', sans-serif;
+    text-align: center ;
+    margin-top :10rem;
+    margin-left : 10rem;
+    color:blue;
+    height: 500px;
+    width: 50%;
+}
+
+.submit{
+    background: blue;
+    color: white;
+    width: 550%;
+}
+.head{
+   Font-family: 'Titillium Web', sans-serif;
+    text-align: center ;
+}
